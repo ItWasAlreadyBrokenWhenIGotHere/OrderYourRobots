@@ -8,5 +8,7 @@ PATH:
   - .
 PYTHONPATH:
   - .
+  - variables
+  - libraries
 ignoreFiles:
   - .gitignore
